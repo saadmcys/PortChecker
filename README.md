@@ -1,6 +1,6 @@
-# Network Inventory Scanner
+# Network Port Checker
 
-![Network Scanner Tool](https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png)
+![Port CHecker](https://raw.githubusercontent.com/saadmcys/PortChecker/main/images/tool-logo.png)
 
 A powerful Python-based network scanning tool designed to discover devices in a local network, analyze open ports, and calculate risk levels for each host using Nmap and psutil.
 
